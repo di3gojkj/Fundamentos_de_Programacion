@@ -19,7 +19,7 @@ def resta():
     print(f"El resultado es: {resultado}")
 
 def multiplo():
-    Print("--- Estas multiplicando ---")
+    print("--- Estas multiplicando ---")
 
     valor_1 = int(input("Ingrese el primer valor: "))
     valor_2 = int(input("Ingrese el segundo valor: "))
